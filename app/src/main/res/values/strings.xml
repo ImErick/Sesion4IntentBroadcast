@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sesion4IntentBroadcast</string>
+    <string name="main_tittle">Intents</string>
+    <string name="explicit_intent">INTENT EXPLICITO</string>
+    <string name="implicit_intent">INTENT IMPLICITO</string>
+    <string name="data_form">Formulario de datos</string>
+    <string name="complete_name">Nomble Completo</string>
+    <string name="company_name">Nombre de la Empresa</string>
+    <string name="email">Correo electronico</string>
+    <string name="send_data">Enviar Datos</string>
+    <string name="phone">Telefono</string>
+    <string name="calling">llamar</string>
+    <string name="web_site">Sitio Web</string>
+    <string name="go_to_web_site">Ir al sitio web</string>
+</resources>
